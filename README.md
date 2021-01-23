@@ -11,8 +11,5 @@
     <img align="center" alt="visitors" src="https://gpvc.arturio.dev/blaannk" />
 </p>
 
-<div align="center">
-</div><img src="https://github.com/punitkmryh/punitkmryh/blob/master/wave.svg" />
-
 <!--[website]: -->
 [twitter]: https://twitter.com/sumanth_98?s=09
