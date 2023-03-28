@@ -5,7 +5,7 @@
 </p>
 
 <p>
-  <h3 align="center">17 yo</h3>
+  <h3 align="center">18 yo</h3>
 </p>
 
 <p align="center">
