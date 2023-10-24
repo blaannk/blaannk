@@ -8,8 +8,4 @@
   <h3 align="center">19 yo</h3>
 </p>
 
-<p style="text-align:center;">
-  <svg>       
-     <image xlink:href="https://profile-counter.glitch.me/blaannk/count.svg" src="https://profile-counter.glitch.me/blaannk/count.svg"/>    
-  </svg>
-</p>
+![Visitor Count](https://profile-counter.glitch.me/blaannk/count.svg)
