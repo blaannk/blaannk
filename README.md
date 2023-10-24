@@ -5,12 +5,9 @@
 </p>
 
 <p>
-  <h3 align="center">18 yo</h3>
+  <h3 align="center">19 yo</h3>
 </p>
 
 <p align="center">
-    <img align="center" alt="visitors" src="https://gpvc.arturio.dev/blaannk" />
+    <img align="center" alt="visitors" src="https://profile-counter.glitch.me/blaannk/count.svg" />
 </p>
-
-<!--[website]: -->
-[twitter]: https://twitter.com/sumanth_98?s=09
