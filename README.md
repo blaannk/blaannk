@@ -9,5 +9,5 @@
 </p>
 
 <p align="center">
-    [![Visitor Count](https://profile-counter.glitch.me/blaannk/count.svg)]
+    [![Visitor Count](https://profile-counter.glitch.me/blaannk/count.svg)](https://x.com)
 </p>
