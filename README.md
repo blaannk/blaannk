@@ -9,7 +9,7 @@
 </p>
 
 <p style="text-align:center;">
-  <svg width="90" height="90">       
-     <image xlink:href="https://profile-counter.glitch.me/blaannk/count.svg" src="https://profile-counter.glitch.me/blaannk/count.svg" width="90" height="90"/>    
+  <svg>       
+     <image xlink:href="https://profile-counter.glitch.me/blaannk/count.svg" src="https://profile-counter.glitch.me/blaannk/count.svg"/>    
   </svg>
 </p>
