@@ -9,5 +9,5 @@
 </p>
 
 <p align="center">
-    <img align="center" alt="visitors" src="https://profile-counter.glitch.me/blaannk/count.svg" />
+    ![Visitor Count](https://profile-counter.glitch.me/blaannk/count.svg)
 </p>
