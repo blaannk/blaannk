@@ -8,4 +8,4 @@
   <h3 align="center">20 yo</h3>
 </p>
 
-![Visitors](https://profile-counter.glitch.me/blaannk/count.svg)
+![Visitors](https://views-counter.vercel.app/badge?pageId=blaannk&leftColor=000000&rightColor=0adb3f&type=unique&label=Adventurers&style=none)
